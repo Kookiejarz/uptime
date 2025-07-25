@@ -9,9 +9,9 @@ sites:
     url: https://liuu.org
   - name: LAX BandWagonHost CN2-GIA
     url: us-west.liuu.org
-    check: "globalping"
+    port: 46475
+    check: "tcp-ping"
     ipv6: false
-    location: Shanghai+CN
   - name: HKG Google Cloud
     url: gc-hk.liuu.org
     port: 37959
