@@ -77,19 +77,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lax-band-wagon-host-cn-2-gia",
     "status": "up",
-    "uptime": "3.68%",
-    "uptimeDay": "3.68%",
-    "uptimeWeek": "3.68%",
-    "uptimeMonth": "3.68%",
-    "uptimeYear": "3.68%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 9,
     "timeDay": 9,
     "timeWeek": 9,
     "timeMonth": 9,
     "timeYear": 9,
-    "dailyMinutesDown": {
-      "2025-07-25": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "LAX BandWagonHost CN2-GIA [IPV6]",
@@ -97,18 +95,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lax-band-wagon-host-cn-2-gia-ipv-6",
     "status": "down",
-    "uptime": "0.30%",
-    "uptimeDay": "0.30%",
-    "uptimeWeek": "0.30%",
-    "uptimeMonth": "0.30%",
-    "uptimeYear": "0.30%",
+    "uptime": "0.13%",
+    "uptimeDay": "0.13%",
+    "uptimeWeek": "0.13%",
+    "uptimeMonth": "0.13%",
+    "uptimeYear": "0.13%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-25": 2
+      "2025-07-25": 3
     }
   }
 ]
