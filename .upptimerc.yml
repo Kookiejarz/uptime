@@ -5,17 +5,14 @@ repo: uptime # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
   - name: Kenneth's Blog
     url: https://liuu.org
   - name: LAX BandWagonHost CN2-GIA
     url: us-west.liuu.org
     port: 46475
-    check: "tcp-ping"
+    check: "globalping"
     ipv6: false
+    location: Shanghai+CN
   - name: HKG Google Cloud
     url: gc-hk.liuu.org
     port: 37959
