@@ -9,7 +9,6 @@ sites:
     url: https://liuu.org
   - name: LAX BandWagonHost CN2-GIA
     url: us-west.liuu.org
-    port: 46475
     check: "globalping"
     ipv6: false
     location: Shanghai+CN
