@@ -9,16 +9,16 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Kenneth's Blog
+    url: https://liuu.org
   - name: LAX BandWagonHost CN2-GIA
     url: us-west.liuu.org
-    port: 80
+    port: 46475
     check: "tcp-ping"
     ipv6: false
   - name: LAX BandWagonHost CN2-GIA [IPV6]
     url: us-west.liuu.org
-    port: 80
+    port: 46475
     check: "tcp-ping"
     ipv6: true
 
