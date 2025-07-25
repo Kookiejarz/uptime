@@ -16,9 +16,9 @@ sites:
     port: 46475
     check: "tcp-ping"
     ipv6: false
-  - name: LAX BandWagonHost CN2-GIA [IPV6]
-    url: 2607:8700:5500:225d::2
-    port: 46475
+  - name: HKG Google Cloud
+    url: gc-hk.liuu.org
+    port: 37959
     check: "tcp-ping"
     ipv6: true
 
