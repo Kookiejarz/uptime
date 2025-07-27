@@ -12,11 +12,6 @@ sites:
     port: 46475
     check: "tcp-ping"
     ipv6: false
-  - name: HKG Google Cloud
-    url: gc-hk.liuu.org
-    port: 37959
-    check: "tcp-ping"
-    ipv6: false
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
