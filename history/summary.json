@@ -6,18 +6,16 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 102,
+    "time": 101,
     "timeDay": 145,
     "timeWeek": 106,
     "timeMonth": 100,
-    "timeYear": 102,
-    "dailyMinutesDown": {
-      "2025-09-02": 12
-    }
+    "timeYear": 101,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Kenneth's Blog",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 346,
-    "timeDay": 206,
-    "timeWeek": 340,
-    "timeMonth": 337,
-    "timeYear": 346,
+    "time": 347,
+    "timeDay": 375,
+    "timeWeek": 301,
+    "timeMonth": 340,
+    "timeYear": 347,
     "dailyMinutesDown": {}
   },
   {
@@ -49,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.32%",
     "time": 39,
-    "timeDay": 11,
-    "timeWeek": 24,
+    "timeDay": 61,
+    "timeWeek": 26,
     "timeMonth": 37,
     "timeYear": 39,
     "dailyMinutesDown": {
