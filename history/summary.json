@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 100,
-    "timeDay": 176,
-    "timeWeek": 111,
-    "timeMonth": 102,
+    "timeDay": 71,
+    "timeWeek": 106,
+    "timeMonth": 97,
     "timeYear": 100,
     "dailyMinutesDown": {}
   },
@@ -28,12 +28,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 365,
-    "timeDay": 323,
-    "timeWeek": 401,
-    "timeMonth": 394,
-    "timeYear": 365,
-    "dailyMinutesDown": {}
+    "time": 363,
+    "timeDay": 234,
+    "timeWeek": 367,
+    "timeMonth": 389,
+    "timeYear": 363,
+    "dailyMinutesDown": {
+      "2025-10-02": 0
+    }
   },
   {
     "name": "LAX BandWagonHost CN2-GIA",
@@ -41,14 +43,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lax-band-wagon-host-cn-2-gia",
     "status": "up",
-    "uptime": "99.59%",
-    "uptimeDay": "98.86%",
+    "uptime": "99.60%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.59%",
+    "uptimeYear": "99.60%",
     "time": 39,
-    "timeDay": 43,
-    "timeWeek": 43,
+    "timeDay": 59,
+    "timeWeek": 46,
     "timeMonth": 39,
     "timeYear": 39,
     "dailyMinutesDown": {
